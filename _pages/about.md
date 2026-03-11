@@ -10,9 +10,9 @@ I am a Ph.D. Student at the Department of Computer Science George Mason Universi
 
 Education
 =====
-* **[George Mason University](https://www.gmu.edu/)** (Jan 2023 - present), Doctor of Computer Science
-* **[Stevens Institute of Technology](https://www.stevens.edu/)** (Aug 2021 - Dec 2022),  Master of Computer Science
-* **[University of Iowa](https://uiowa.edu/)** (Aug 2017 - May 2021), Bachelor of Computer Science
+* **[George Mason University](https://www.gmu.edu/)** (Jan 2023 - present), PhD in Computer Science
+* **[Stevens Institute of Technology](https://www.stevens.edu/)** (Aug 2021 - Dec 2022), MS in Computer Science
+* **[University of Iowa](https://uiowa.edu/)** (Aug 2017 - May 2021), BS in Computer Science
 
 Publications
 =====
