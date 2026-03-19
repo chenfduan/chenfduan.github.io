@@ -16,9 +16,13 @@ Education
 
 Publications
 =====
+* **Meta-Architecture Binary Code Analysis**  
+  **Chenfeng Duan**, Junzhe Wang, Qiang Zeng, Lannan Luo.  
+  *The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN'26)*, 2026.
+
 * **Model Reuse Through Retargeted-Architecture Binary Code Analysis**  
   Junzhe Wang\*, **Chenfeng Duan\***, Chuxiong Wu, Qiang Zeng, Lannan Luo.  
-  *IEEE Transactions on Dependable and Secure Computing (TDSC)*  
+  *IEEE Transactions on Dependable and Secure Computing (TDSC)*, 2025.  
   (\* Co-first authors)
 
 
