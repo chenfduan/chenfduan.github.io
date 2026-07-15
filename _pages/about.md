@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. Student at the Department of Computer Science George Mason University.
+I am a Ph.D. Student at the Department of Computer Science at George Mason University.
 
 Education
 =====
-* **[George Mason University](https://www.gmu.edu/)** (Jan 2023 - present), PhD in Computer Science
+* **[George Mason University](https://www.gmu.edu/)** (Jan 2023 - present), Ph.D. in Computer Science
 * **[Stevens Institute of Technology](https://www.stevens.edu/)** (Aug 2021 - Dec 2022), MS in Computer Science
 * **[University of Iowa](https://uiowa.edu/)** (Aug 2017 - May 2021), BS in Computer Science
 
